@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Access your site's data through an easy-to-use HTTP REST API.
 
 == Description ==
+
+This is a test demo
 WordPress is moving towards becoming a fully-fledged application framework, and
 we need new APIs. This project was born to create an easy-to-use,
 easy-to-understand and well-tested framework for creating these APIs, plus
